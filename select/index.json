@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "silent",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2025-12-30T03:08:46.440670Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Silent all these years",
+      "artist": "孫燕姿 feat. Mark",
+      "has_synced": false,
+      "path": "select/01_Silent_all_these_years_孫燕姿_feat._Mark.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Silent All These Years",
+      "artist": "孙燕姿",
+      "has_synced": false,
+      "path": "select/02_Silent_All_These_Years_孙燕姿.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Silent Drum",
+      "artist": "In Fear and Faith",
+      "has_synced": true,
+      "path": "select/03_A_Silent_Drum_In_Fear_and_Faith.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sons of the Silent Age",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/04_Sons_of_the_Silent_Age_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sons of the Silent Age",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/05_Sons_of_the_Silent_Age_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Silent Treatment",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/06_Silent_Treatment_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Silent My Song",
+      "artist": "Lykke Li",
+      "has_synced": false,
+      "path": "select/07_Silent_My_Song_Lykke_Li.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Silent Partner",
+      "artist": "La Roux",
+      "has_synced": false,
+      "path": "select/08_Silent_Partner_La_Roux.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Silent Movie",
+      "artist": "Natasha Bedingfield",
+      "has_synced": true,
+      "path": "select/09_Silent_Movie_Natasha_Bedingfield.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Silent Murder",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/10_Silent_Murder_Nas.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Your Silent Face",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/11_Your_Silent_Face_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Silent Running",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": true,
+      "path": "select/12_Silent_Running_Orchestral_Manoeuvres_In_the_Dark.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "All Things Are Quite Silent",
+      "artist": "Steeleye Span",
+      "has_synced": false,
+      "path": "select/13_All_Things_Are_Quite_Silent_Steeleye_Span.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "silent",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": false,
+      "path": "select/pl_01_silent_SEKAI_NO_OWARI.txt"
+    }
+  ]
+}
